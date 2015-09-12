@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "POD Chief": {
+      "applicationId": "KU4K1wgyaPLMqJkewYPKrkX5ftCGArGAZcO7mloD"
+    },
+    "_default": {
+      "link": "POD Chief"
+    }
+  }
+}
